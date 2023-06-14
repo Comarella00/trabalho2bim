@@ -1,0 +1,33 @@
+#tbpg{
+  border: 3px black solid;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+
+html{
+   background-color: lightgray;
+   font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+
+div{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+}
+
+.titulo{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+}
+
+input{
+  width: 280;
+}
